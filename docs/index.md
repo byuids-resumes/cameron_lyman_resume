@@ -2,11 +2,9 @@
 layout: cv
 title: Cameron Lyman Resume
 ---
-<<<<<<< HEAD
-# Cameron Lyman LIKES TURTLES
-=======
-# Cameron Lyman IS THE GUY
->>>>>>> b4d2664d62aab98227bd324d410c15ef01f80e17
+
+
+# Cameron Lyman
 
 <div id="webaddress">
 <a href="lym15004e@byui.edu">lym15004@byui.edu</a>
