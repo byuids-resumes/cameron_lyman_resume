@@ -8,7 +8,6 @@ title: Cameron Lyman Resume
 
 <div id="webaddress">
 <a href="lym15004e@byui.edu">lym15004@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/cameron-lyman/">LinkedIn</a>
 | <a href="https://github.com/cameronlyman">GitHub</a>
 </div>
