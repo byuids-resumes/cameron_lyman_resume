@@ -32,15 +32,11 @@ __Hang Man Helper__
 - Uses HTML and JavaScript for website. Json file was created using Python.
 https://github.com/cameronlyman/CSE121b
 
-### Internships
-
-
-## Service and Work History
 
 
 
 <!-- ### Footer
 
-Last updated: Mar 2021 -->
+Last updated: Apr 2021 -->
 
 
