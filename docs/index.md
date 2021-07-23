@@ -16,7 +16,7 @@ title: Cameron Lyman Resume
 
 ## Education
 
-`Expected 2022`
+`Expected 2021`
 __Brigham Young University-Idaho__, Rexburg, ID
 
 - 3.4 GPA
@@ -25,6 +25,12 @@ __Brigham Young University-Idaho__, Rexburg, ID
 ## Related Experience
 
 ### Projects
+
+__Feeding Time__
+- Android app that lets family memeber know if their pet's have been fed
+- When one user marks a pet as fed, the pet's fed status updates for the other users.
+- Programming in Java. Uses Google Firebase for backend.
+https://github.com/cameronlyman/FeedingTimeJava.git
 
 __Hang Man Helper__
 - This website helps you guess words in Hang Man.
@@ -37,6 +43,6 @@ https://github.com/cameronlyman/CSE121b
 
 <!-- ### Footer
 
-Last updated: Apr 2021 -->
+Last updated: July 2021 -->
 
 
