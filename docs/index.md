@@ -45,4 +45,18 @@ https://github.com/cameronlyman/CSE121b
 
 Last updated: July 2021 -->
 
+## Previous Jobs
+
+__Orem City Parks__
+'Seasonally 2019-2020'
+- Responsible for maintaine and upkeep of Orem Parks
+- Assisted in Training
+- Diagnosed problems with sprinkers
+
+__Walmart Electornics Department__
+'Mar 2018 - Nov 2018'
+- Setup customer phones
+- Explained and recommended products to customers
+- Diagnosed technical problems that customers had
+
 
